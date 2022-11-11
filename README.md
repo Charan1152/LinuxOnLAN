@@ -17,7 +17,7 @@ LinuxOnLAN.
 
 ## Module - 1
 ### <b>File Name: [expt.bash](/expt.bash)</b>
-### Automatic User and Password Creation with minimal user interaction and High Security
+### Description : <u>Automatic User and Password creation with minimal User interaction and High security</u>
 - Creates multiple users as of admin's interest and frequency
 - Security of users are ensured with password in context to our Institute
 - Automatic Lab Folders creation with appropriate environments
