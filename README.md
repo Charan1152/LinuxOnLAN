@@ -1,6 +1,6 @@
 # LinuxOnLAN
 ## Introduction
-LinuxOnLAN is an advanced collection of shell scripts of higher level automation created by me for my Offline Graduation college.
+LinuxOnLAN is an advanced collection of shell scripts for higher level automation created by me for my Offline Graduation college.
 
 
 Generally, I have been observing that our Institute shares the Linux over PuTTY which is an open-source telnet/ssh connectivity tool for windows. My curiosity of what's happening behind the scene landed me to know that the handover of credentials and various elementary needs like automating every folder is really necessary to use the power of the BASH shell upto its full extent.
